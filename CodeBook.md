@@ -1,6 +1,18 @@
 # Code Book
 
-This code book summarizes the resulting data fields in `tidy.txt`.
+The result is in the file of "finished tidy data.csv".
+
+## Data documents downloaded 
+- Varaible names  `./features.txt`
+- Activity labels `.activity_labels.txt`
+- Training data
+  - Measuremnets   `./train/X_train.txt`
+  - Activity codes `./train/y_train.txt`
+  - Subject IDs    `./train/subject_train.txt`
+- test data
+  - Measuremnets   `./test/X_test.txt`
+  - Activity codes `./test/y_test.txt`
+  - Subject IDs    `./test/subject_test.txt`
 
 ## Identifiers
 
